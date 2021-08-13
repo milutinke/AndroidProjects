@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Domaci1</string>
+    <string name="loginText">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="welcomeMessage">Welcome %username% here is an article of the day, do you like it?</string>
+    <string name="favourite">Favourite</string>
+    <string name="unfavourite">Unfavourite</string>
+    <string name="daily_news">Daily News</string>
+    <string name="article_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed velit massa. Donec volutpat porta euismod. Sed sem lectus, consectetur sagittis scelerisque a, dictum imperdiet purus. Vestibulum euismod bibendum urna a auctor. Donec sodales vulputate interdum. Praesent bibendum commodo aliquet. Nam id urna convallis, congue magna eu, tincidunt mi. Aenean faucibus vitae velit id auctor. Nam porttitor, lacus quis porttitor aliquet, velit lorem faucibus nisl, nec lobortis enim orci vel quam. Phasellus maximus turpis in diam pharetra luctus. Maecenas interdum ex leo, sed posuere magna finibus ut. In iaculis viverra lobortis. Nam commodo mauris ullamcorper varius porta. In nibh lectus, tristique et nunc vel, semper lacinia purus.
+
+Maecenas consequat pellentesque tortor, ac sollicitudin enim efficitur in. Suspendisse potenti. Aliquam vitae consectetur sapien. Donec nec cursus elit. Nunc vehicula elit at lorem placerat faucibus. In ac fringilla neque. Quisque eget arcu nisl. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et gravida nisl. Integer blandit vulputate ante vitae venenatis. Donec commodo ante pulvinar neque mattis facilisis.
+
+Suspendisse potenti. Cras eu eleifend magna, bibendum accumsan leo. Nullam a molestie quam, elementum consequat nisl. Praesent maximus purus risus, semper volutpat lectus laoreet mollis. Mauris tortor eros, pellentesque eget blandit id, tempor et dolor. Pellentesque sit amet molestie risus. Integer cursus nibh vel sapien ornare, sagittis semper ipsum dignissim. Morbi sit amet quam interdum ligula volutpat consequat ac rhoncus mi. Praesent egestas ac nisl vitae iaculis. Proin euismod urna nisl, ut iaculis erat vehicula et.
+
+Sed mollis maximus porttitor. Mauris feugiat enim in lectus elementum, in rutrum felis vulputate. Nullam vitae lectus vestibulum purus faucibus consequat sed sit amet dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam faucibus tortor sed massa bibendum, ac viverra magna facilisis. Proin sed aliquet eros. Praesent tempus dapibus euismod. Aliquam in dapibus purus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean eget pharetra odio. Nullam maximus lacinia sem vitae ultricies. Nunc non nibh diam. Curabitur mattis lorem ligula, non ultricies ante aliquet eget.
+
+Etiam vestibulum lacinia velit, non ornare metus maximus vel. Cras auctor egestas est et euismod. Aenean blandit leo ut semper malesuada. Vivamus ut sapien ac nibh porttitor faucibus nec elementum lorem. Praesent eget tortor leo. Nunc ornare interdum leo nec tempor. Aliquam et purus libero. Duis auctor luctus risus vitae fermentum. Sed hendrerit orci at nisi ullamcorper, non mattis mi pharetra. Proin et gravida ante. Cras justo ligula, eleifend ut turpis eu, elementum venenatis turpis. Sed convallis vitae ex vel rutrum. Nam faucibus nunc at accumsan semper. Aliquam erat volutpat. Fusce elementum ultrices purus eget viverra.</string>
+</resources>
