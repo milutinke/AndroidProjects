@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firstName">Ime</string>
+    <string name="lastName">Prezime</string>
+    <string name="bankName">Ime Banke</string>
+    <string name="password">Lozinka</string>
+    <string name="confirmPassword">Potvrdi Lozinku</string>
+    <string name="login">Prijava</string>
+    <string name="status">Stanje</string>
+    <string name="addFunds">Unos</string>
+    <string name="lists">Liste</string>
+    <string name="profile">Profil</string>
+    <string name="expenses">Rashod:</string>
+    <string name="difference">Razlika:</string>
+    <string name="income">Prihod:</string>
+    <string name="bankStatusAccountInfoText">Pregled ukupnog stanja racuna</string>
+</resources>

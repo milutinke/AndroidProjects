@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">dusan_milutinovic_10518</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="bankName">Bank Name</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="login">Login</string>
+
+    <string name="status">Status</string>
+    <string name="addFunds">Add Funds</string>
+    <string name="lists">Lists</string>
+    <string name="profile">Profile</string>
+    <string name="expenses">Expenses:</string>
+    <string name="difference">Difference:</string>
+    <string name="income">Income:</string>
+    <string name="bankStatusAccountInfoText">Bank account funds overview</string>
+</resources>
